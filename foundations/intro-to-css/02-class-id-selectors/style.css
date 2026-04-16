@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+.impairs {
+    background-color: rgb(248, 120, 148);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.special {
+    font-size: 24px;
+}
+
+#pairs2 {
+    color: blue;
+    font-size: 36px;
+}
+
+#pairs4 {
+    background-color: rgb(120, 248, 148);
+    font-size: 24px;
+    font-weight: bold;
+}
